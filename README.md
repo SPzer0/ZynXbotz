@@ -82,6 +82,7 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 * [`zhwzein`](https://github.com/zhwzein)
 * [`CAF-ID`](https://github.com/CAF-ID)
 * [`bintang`](https://github.com/Bintangp02)
+* [`𝒁𝒚𝒏𝑿 𝑴𝒐𝒅𝒅𝒆𝒓〽️`](https://github.com/SPzer0)
 
 ```Thanks to all who have participated in the development of this script```
 
